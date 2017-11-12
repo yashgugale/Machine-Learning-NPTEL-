@@ -1,2 +1,2 @@
 # Machine-Learning-NPTEL-
-Programs from 'Introduction to Machine Learning' and other programs.
+Programs from 'Introduction to Machine Learning' course by NPTEL, and other programs.
